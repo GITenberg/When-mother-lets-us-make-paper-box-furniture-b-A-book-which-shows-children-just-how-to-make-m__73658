@@ -1,0 +1,38 @@
+_repo: When-mother-lets-us-make-paper-box-furniture-b-A-book-which-shows-children-just-how-to-make-m__73658
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rich, G. Ellingwood (Grace Ellingwood)
+    alias: Rich, Grace Ellingwood
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '57169'
+    url: http://www.gutenberg.org/2009/agents/57169
+description: Illustrated by the author.
+gutenberg_issued: '2024-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73658'
+  lccn: '14012640'
+language: en
+pgterms:marc904: https://archive.org/details/whenmotherletsus00rich/page/n7/mode/2up
+pgterms:marc905: 20210424121629rich
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aNew York :$bMoffat, Yard and Company, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paper work'
+- !lcsh 'Doll furniture'
+- !lcsh 'Paper toy making'
+- !lcc 'TT'
+- GITenberg
+title: 'When mother lets us make paper box furniture : $b A book which shows children
+  just how to make most attractive toy furniture out of materials which cost practically
+  nothing--toys which give as much pleasure as those from expensive toy shops'
+url: http://www.gutenberg.org/ebooks/73658
