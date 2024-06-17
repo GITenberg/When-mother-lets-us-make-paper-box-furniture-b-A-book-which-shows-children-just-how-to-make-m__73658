@@ -1,5 +1,8 @@
 _repo: When-mother-lets-us-make-paper-box-furniture-b-A-book-which-shows-children-just-how-to-make-m__73658
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73658-h/images/cover.jpg
 creator:
   author:
     agent_name: Rich, G. Ellingwood (Grace Ellingwood)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57169'
     url: http://www.gutenberg.org/2009/agents/57169
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73658#When-mother-lets-us-make-paper-box-furniture-b-A-book-which-shows-children-just-how-to-make-m_
 gutenberg_issued: '2024-05-20'
 gutenberg_type: Text
 identifiers:
